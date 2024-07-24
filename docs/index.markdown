@@ -6,10 +6,10 @@ layout: home
 title: "ソフトウェア工学　2024"
 ---
 
-#ソフトウェア工学 2024
+# ソフトウェア工学 2024
 
 git/github演習
 
-以前別のリポジトリでGithubPagesを作成していたためurlを変える必要があり、
-トラブルがあったためリンクをそのまま張り付けるように指示されました。  
-[git-memo](https://sakai8121.github.io/eijisakai.github.io/docs/git-memo)
+※すでに他のリポジトリでGithubPagesを作成しており、同じ名前のページを作成できないためurlが変わっています。
+
+[git-memo](/docs/git-memo)
