@@ -12,4 +12,4 @@ git/github演習
 
 ※すでに他のリポジトリでGithubPagesを作成しており、同じ名前のページを作成できないためurlが変わっています。
 
-[git-memo](/docs/git-memo)
+[git-memo](https://sakai8121.github.io/eijisakai.github.io/docs/git-memo)
